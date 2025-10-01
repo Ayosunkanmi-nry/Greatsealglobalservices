@@ -71,8 +71,9 @@
         }
 
         .hero-content {
-            max-width: 600px;
+             max-width: 750px;
             color: white;
+            text-transform: capitalize;
         }
 
         .hero-subtitle {
@@ -431,4 +432,5 @@
                 gap: 20px;
             }
         }
+
 
